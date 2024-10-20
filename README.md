@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Pedro
+## ¡Hola! 👋 Soy Ricra
 
 - 🎓 Estudiante de Ingeniería de Sistemas en la Universidad Nacional de Ucayali.
 - 💻 Actualmente trabajando en proyectos como:
