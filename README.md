@@ -1,16 +1,13 @@
 <!-- ============================================================
-     ENCABEZADO CON BANNER Y TÍTULO
+     ENCABEZADO CON BANNER VERDE (Estilo Matcha/Te Verde)
      ============================================================ -->
 <div align="center">
 
-<!-- Banner con un gradiente sutil y tu nombre. Siéntete libre de reemplazar la URL por una imagen tuya. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Pedro%20Giovanni%20Ricra%20Figueroa&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=150&section=header&text=Pedro%20Giovanni%20Ricra%20Figueroa&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner"/>
 
-<!-- Título profesional y una línea de presentación -->
-## Estudiante de Ingeniería de Sistemas | Desarrollo de Software
+<h3>🍵 Estudiante de Ingeniería de Sistemas | Desarrollo de Software</h3>
 
-<!-- Enlaces a tus perfiles profesionales con badges (insignias) -->
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/pedro-giovanni-ricra-figueroa-971a20433" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -22,9 +19,6 @@
   </a>
 </p>
 
-<!-- Línea divisoria visual -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%" />
-
 </div>
 
 ---
@@ -32,12 +26,11 @@
 <!-- ============================================================
      SOBRE MÍ
      ============================================================ -->
-## 👨‍💻 Sobre Mí
+## 🌱 Sobre Mí
 
 Estudiante de **Ingeniería de Sistemas (9no ciclo)** en la **Universidad Nacional de Ucayali**, con experiencia práctica en desarrollo de software, automatización de pruebas y optimización de procesos logísticos.
 
-*   🔭 Actualmente, aplico **diseño de especificaciones de software** e **ingeniería de prompts** para acelerar el desarrollo eficiente.
-*   🌱 Me especializo en **Java, Python, Angular, Selenium** y en la aplicación de **algoritmos de investigación de operaciones**.
+*   🔭 Aplico el diseño de especificaciones de software detalladas y la ingeniería de prompts para acelerar el desarrollo eficiente.
 *   💡 Destaco por mi capacidad para crear **herramientas sin dependencias**, adaptarme rápidamente a nuevos retos y colaborar en equipo.
 *   📫 Puedes contactarme a través de mi correo: **pedro.ricra.figueroa@gmail.com**.
 
@@ -47,8 +40,6 @@ Estudiante de **Ingeniería de Sistemas (9no ciclo)** en la **Universidad Nacion
      HABILIDADES TÉCNICAS
      ============================================================ -->
 ## 🛠️ Habilidades Técnicas
-
-Utilizo las siguientes tecnologías y herramientas en mis proyectos:
 
 #### **Lenguajes de Programación**
 <p>
@@ -102,49 +93,40 @@ Utilizo las siguientes tecnologías y herramientas en mis proyectos:
 ---
 
 <!-- ============================================================
-     PROYECTOS DESTACADOS
+     EXPERIENCIA LABORAL
      ============================================================ -->
-## 🚀 Proyectos Destacados
+## 💼 Experiencia Laboral
 
-Aquí presento una selección de mis proyectos más relevantes. Para más detalles, visita mis repositorios.
+**Practicante — Área de Oficina de Tecnología de la Información (OTI)** *04/2025 -- 07/2025*
+*Universidad Nacional de Ucayali — Pucallpa, Perú*
 
-### [Asignador Heurístico de Redes Logísticas](https://github.com/TeVerde29/Asignador-Heuristico-de-Redes-Logisticas)
-*Sistema web interactivo para optimizar la asignación almacén-zona sobre un mapa real con distancias por calle.*
-*   **Descripción:** Implementa algoritmos de investigación de operaciones como **VAM (heurística de penalización)**, **MODI (optimización iterativa)** y **Branch & Bound con poda por capacidad**.
-*   **Stack:** `JavaScript Vanilla`, `Leaflet.js`, `API OSRM`, `API Nominatim`, `HTML5/CSS3`, `persistencia en JSON`.
-*   **Demo en vivo:** [Ver Aplicación](https://teverde29.github.io/Asignador-Heuristico-de-Redes-Logisticas/)
-
-### [RotaStock — Control de Rotación de Inventario](https://github.com/TeVerde29/RotaStock)
-*Herramienta de escritorio 100% offline para gestión de inventario con modelo FIFO cronológico.*
-*   **Descripción:** Diseñé la lógica matemática e implementé la semaforización de rotación y análisis de cobertura. Los datos se persisten en JSON y se exportan a Excel.
-*   **Stack:** `HTML5/JS`, `Electron.js`, `persistencia JSON`, `exportación Excel`.
-*   **Instalador:** [Descargar](https://github.com/TeVerde29/RotaStock/releases/tag/v1.0.0)
-
-### [Sistema ABC/Pareto — Gestión de Inventario](https://github.com/TeVerde29)
-*Aplicación de escritorio para clasificación de productos por criticidad (A/B/C) mediante análisis de Pareto.*
-*   **Descripción:** Incluye visualización interactiva con **Chart.js** para una mejor interpretación de los datos.
-*   **Stack:** `HTML5`, `CSS3`, `JavaScript`, `Electron.js`, `Chart.js`.
-*   **Repositorio:** [Enlace a GitHub]
+*   Diseñé e implementé desde cero una arquitectura de pruebas funcionales en etapas para los sistemas de la plataforma AURA, estableciendo un nuevo estándar de calidad previo al despliegue en producción.
+*   Automaticé pruebas funcionales y de validación backend en los sistemas de Posgrado, CEPRE e Idiomas usando Selenium IDE, Python y Jupyter/Google Colab, documentando fallos con evidencias para el equipo de desarrollo.
+*   Desarrollé y validé interfaces de los módulos de Posgrado y Plan de Estudio, aplicando validaciones de datos e integridad de campos.
+*   Ejecuté el registro biométrico (huella y reconocimiento facial) del personal de la Facultad de Ciencias de la Salud en el sistema de control de asistencia.
+*   **Herramientas:** Selenium IDE, Python, Jupyter Notebook, Google Colab, GitHub.
 
 ---
 
 <!-- ============================================================
-     ESTADÍSTICAS DE GITHUB
+     EDUCACIÓN
      ============================================================ -->
-## 📊 Mis Estadísticas en GitHub
+## 🎓 Educación
 
-<div align="center">
+**Ingeniería de Sistemas** *2022 -- Actualidad (Ciclo IX)*
+*Universidad Nacional de Ucayali — Pucallpa, Perú*
 
-<!-- Tarjeta de estadísticas generales -->
-<img src="https://github-readme-stats.vercel.app/api?username=TeVerde29&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub de TeVerde29" width="420"/>
+---
 
-<!-- Tarjeta de lenguajes más usados -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeVerde29&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" width="350"/>
+<!-- ============================================================
+     CERTIFICACIONES Y EVENTOS
+     ============================================================ -->
+## 🏆 Certificaciones y Participación en Eventos
 
-<!-- Tarjeta de racha de contribuciones -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeVerde29&theme=radical&hide_border=true" alt="Racha de contribuciones" width="420"/>
+**CONEIMERA (Congreso Nacional de Estudiantes de Ing. Mecánica-Eléctrica y Ramas Afines)** *08/2025 y 10/2024*
 
-</div>
+*   **1er Puesto en Concurso de Programación Competitiva (UNTELS — Universidad Nacional Tecnológica de Lima Sur, 2024):** Resolución de problemas algorítmicos complejos y optimización de código bajo presión (equipo de 3 integrantes).
+*   **Participación Académica (UNT — Universidad Nacional de Trujillo, 2025):** Actualización en innovación tecnológica, arquitecturas modernas y tendencias en ingeniería.
 
 ---
 
@@ -152,10 +134,7 @@ Aquí presento una selección de mis proyectos más relevantes. Para más detall
      PIE DE PÁGINA
      ============================================================ -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%" />
-
-**¡Gracias por visitar mi perfil!**  
-Siéntete libre de explorar mis repositorios y contactarme para cualquier colaboración o oportunidad.
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%" />
+  <p><b>¡Gracias por visitar mi perfil!</b></p>
+  <p>Siéntete libre de explorar mis repositorios y contactarme para cualquier colaboración o oportunidad.</p>
 </div>
