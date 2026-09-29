@@ -50,15 +50,14 @@ Actualmente trabajo principalmente con **JavaScript, TypeScript, Angular, Node.j
 ### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,postman" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,postman" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 </p>
 
 ### Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
@@ -73,8 +72,7 @@ Actualmente trabajo principalmente con **JavaScript, TypeScript, Angular, Node.j
 ### Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,electron,vscode" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,electron,vscode" />
 </p>
 
 ---
