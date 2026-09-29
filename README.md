@@ -1,21 +1,20 @@
-<!-- ============================================================
-     ENCABEZADO CON BANNER VERDE MATCHA (Estilo Minimalista)
-     ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9CAF88&height=150&section=header&text=Pedro%20Giovanni%20Ricra%20Figueroa&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Pedro%20Giovanni%20Ricra%20Figueroa&fontSize=38&fontColor=9CAF88&fontFamily=Montserrat&animation=twinkling"
+  width="100%"
+  alt="Pedro Giovanni Ricra Figueroa"
+/>
 
-<h3>Estudiante de Ingeniería de Sistemas | Desarrollo de Software <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="35" height="35"></h3>
+### Estudiante de Ingeniería de Sistemas | Desarrollo de Software
+**Frontend · Backend · APIs · Bases de Datos · Automatización**
 
 <p>
-  <a href="https://www.linkedin.com/in/pedro-giovanni-ricra-figueroa-971a20433" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-giovanni-ricra-figueroa-971a20433">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:pedro.ricra.figueroa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/TeVerde29" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -23,72 +22,96 @@
 
 ---
 
-<!-- ============================================================
-     SOBRE MÍ
-     ============================================================ -->
-## Sobre Mí <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Sobre mí
 
-<img align="right" src="https://media.tenor.com/I7A9m-xH174AAAAi/mocha-bear.gif" width="220" alt="Osito programando"/>
+Estudiante de **Ingeniería de Sistemas (IX ciclo)** en la **Universidad Nacional de Ucayali**, con experiencia práctica en **desarrollo de software, integración frontend–backend y automatización de pruebas**.
 
-Estudiante de **Ingeniería de Sistemas (9no ciclo)** en la **Universidad Nacional de Ucayali**, con experiencia práctica en desarrollo de software, automatización de pruebas y optimización de procesos logísticos. Tengo la capacidad para diseñar e implementar soluciones web y de escritorio, aplicar algoritmos de investigación de operaciones y gestionar bases de datos.
+Me interesa construir soluciones orientadas a problemas reales, desde aplicaciones web y APIs hasta herramientas de escritorio y sistemas de optimización.
 
-*   🌱 **Actualmente enfocado en:** El diseño de especificaciones de software detalladas.
-*   🧩 **Destaco por:** Mi capacidad para crear herramientas sin dependencias, adaptarme rápidamente a nuevos retos y colaborar en equipo.
-*   👯 **Busco colaborar en:** Proyectos de optimización logística, automatización y herramientas de código abierto.
-*   📫 **Contáctame en:** [pedro.ricra.figueroa@gmail.com](mailto:pedro.ricra.figueroa@gmail.com)
+Actualmente trabajo principalmente con **JavaScript, TypeScript, Angular, Node.js y MySQL, Java, SprigBoot** y también tengo experiencia con bases de datos, testing funcional, automatización y desarrollo bajo metodologías ágiles.
 
 ---
 
-<!-- ============================================================
-     HABILIDADES TÉCNICAS
-     ============================================================ -->
-## Habilidades Técnicas <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="30" height="30">
+## Tecnologías
 
-#### Lenguajes de Programación
+### Lenguajes
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,ts,js" alt="Lenguajes de Programación"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,ts,js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-#### Desarrollo Frontend & Diseño UI
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,html,css,figma" alt="Frontend y Diseño UI"/>
-  <img src="https://img.shields.io/badge/Balsamiq-4D4D4D?style=flat-square&logo=balsamiq&logoColor=white" alt="Balsamiq"/>
+  <img src="https://skillicons.dev/icons?i=angular,html,css,figma" />
 </p>
 
-#### Desarrollo Backend & APIs
+### Backend & APIs
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,postman" alt="Backend y APIs"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,postman" />
+  <img src="https://img.shields.io/badge/REST-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 </p>
 
-#### Bases de Datos & Gestión de Datos
+### Bases de datos
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Bases de Datos"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-#### Testing & Automatización
+### Testing & Automatización
+
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium" alt="Testing y Automatización"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
 </p>
 
-#### DevOps, Despliegue & Herramientas
+### Herramientas
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,electron" alt="DevOps y Herramientas"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,electron,vscode" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" />
 </p>
 
 ---
 
 
-<!-- ============================================================
-     PIE DE PÁGINA
-     ============================================================ -->
+## Áreas de interés
+
+**Desarrollo de Software**
+Aplicaciones web, APIs y herramientas de escritorio.
+
+**Backend & Datos**
+Diseño de APIs REST, integración frontend–backend y bases de datos.
+
+**Testing & Automatización**
+Pruebas funcionales, validación de sistemas y automatización.
+
+**Algoritmos y Optimización**
+Resolución de problemas y desarrollo de soluciones orientadas a procesos reales.
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <p><b>¡Gracias por visitar mi perfil!</b> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="25" height="25"></p>
-  <p>Siéntete libre de explorar mis repositorios y contactarme para cualquier colaboración u oportunidad.</p>
+
+<img src="https://gitmystat.vercel.app/user?theme=moonlight&username=TeVerde29" alt="GitHub Stats" />
+
+<img src="https://gitmystat.vercel.app/top?theme=moonlight&username=TeVerde29&layout=bar" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ¿Quieres conocer mis proyectos?
+
+Explora mis repositorios o contáctame mediante [LinkedIn](https://www.linkedin.com/in/pedro-giovanni-ricra-figueroa-971a20433) o [Email](mailto:pedro.ricra.figueroa@gmail.com).
+
 </div>
