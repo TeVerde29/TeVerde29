@@ -28,7 +28,7 @@ Estudiante de **Ingeniería de Sistemas (IX ciclo)** en la **Universidad Naciona
 
 Me interesa construir soluciones orientadas a problemas reales, desde aplicaciones web y APIs hasta herramientas de escritorio y sistemas de optimización.
 
-Actualmente trabajo principalmente con **JavaScript, TypeScript, Angular, Node.js y MySQL, Java, SprigBoot** y también tengo experiencia con bases de datos, testing funcional, automatización y desarrollo bajo metodologías ágiles.
+Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + SprigBoot** y también tengo experiencia con bases de datos, testing funcional, automatización y desarrollo bajo metodologías ágiles.
 
 ---
 
