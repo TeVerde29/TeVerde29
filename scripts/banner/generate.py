@@ -40,7 +40,7 @@ YAML_ROWS = [
     (1, "subject", "Pedro Giovanni Ricra Figueroa"),
     (1, "role", "Full-Stack Developer"),
     (1, "origin", "Pucallpa, Peru - UNU"),
-    (1, "focus", "Angular · Spring Boot · MySQL ·  Angular · Node.js"),
+    (1, "focus", "Angular · Spring Boot · MySQL · Node.js"),
     (0, "stack", ""),
     (1, "frontend", "Angular 19 + Material"),
     (1, "backend", "Node.js + Express + MySQL · Spring Boot + JPA + MySQL"),
