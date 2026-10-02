@@ -1,0 +1,12 @@
+{
+  "title": "Full-Stack Skill Radar",
+  "_comment": "Auto-valoración 0-100. Edita y regenera con: python scripts/radar.py --data assets/skills.json -o assets/radar",
+  "axes": [
+    { "label": "Angular", "value": 85 },
+    { "label": "Spring Boot", "value": 82 },
+    { "label": "REST APIs", "value": 88 },
+    { "label": "MySQL / SQL", "value": 86 },
+    { "label": "Testing QA", "value": 78 },
+    { "label": "Docker / Git", "value": 75 }
+  ]
+}

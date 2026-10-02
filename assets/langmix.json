@@ -1,0 +1,12 @@
+{
+  "title": "TeVerde29 · language mix",
+  "_comment": "Regenera desde GitHub con: python scripts/radar.py --github TeVerde29 -o assets/radar-langs",
+  "axes": [
+    { "label": "Java", "value": 90 },
+    { "label": "TypeScript", "value": 85 },
+    { "label": "JavaScript", "value": 82 },
+    { "label": "Python", "value": 78 },
+    { "label": "SQL", "value": 86 },
+    { "label": "C++", "value": 65 }
+  ]
+}
