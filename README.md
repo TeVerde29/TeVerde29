@@ -132,23 +132,9 @@ Resolución de problemas y desarrollo de soluciones orientadas a procesos reales
 <a href="mailto:pedro.ricra.figueroa@gmail.com">
   <img src="https://img.shields.io/badge/Email-3E7A34?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>&nbsp;&nbsp;
-<a href="https://github.com/TeVerde29">
-  <img src="https://img.shields.io/badge/GitHub-101F16?style=for-the-badge&logo=github&logoColor=A8D86B" alt="GitHub">
-</a>
 
 <br><br>
 
 ### ¿Quieres conocer mis proyectos?
 
 Explora mis repositorios o contáctame mediante [LinkedIn](https://www.linkedin.com/in/pedro-giovanni-ricra-figueroa-971a20433) o [Email](mailto:pedro.ricra.figueroa@gmail.com).
-
-</div>
-
-<br>
-<br>
-
-<div align="center">
-<sub>Hecho con 🍵 y mucho té verde desde Pucallpa, Perú · @TeVerde29</sub>
-<br>
-<sub>Banner: <code>python scripts/banner/generate.py</code></sub>
-</div>
