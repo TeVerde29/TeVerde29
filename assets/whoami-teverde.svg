@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-label="whoami TeVerde29">
-<rect width="960" height="300" rx="12" fill="#0F1F16" stroke="#2A4A32"/>
+<rect width="960" height="300" rx="12" fill="#101F16" stroke="#274434"/>
 <circle cx="30" cy="26" r="6" fill="#FF5F57"/><circle cx="50" cy="26" r="6" fill="#FEBC2E"/><circle cx="70" cy="26" r="6" fill="#28C840"/>
-<text x="480" y="30" text-anchor="middle" fill="#8AA896" font-family="ui-monospace,Consolas,monospace" font-size="12">teverde29: ~/whoami</text>
-<path d="M0 48H960" stroke="#2A4A32"/>
+<text x="480" y="30" text-anchor="middle" fill="#7FA08A" font-family="ui-monospace,Consolas,monospace" font-size="12">teverde29: ~/whoami</text>
+<path d="M0 48H960" stroke="#274434"/>
 <g font-family="ui-monospace,Consolas,monospace" font-size="15">
-<text x="28" y="82"><tspan fill="#8ED152">$ </tspan><tspan fill="#F2F7F0">whoami --verbose</tspan></text>
-<text x="28" y="112"><tspan fill="#8ED152">nombre: </tspan><tspan fill="#F2F7F0">Pedro Giovanni Ricra Figueroa</tspan></text>
-<text x="28" y="140"><tspan fill="#8ED152">estudio: </tspan><tspan fill="#F2F7F0">Ingenieria de Sistemas (IX ciclo) — Univ. Nacional de Ucayali</tspan></text>
-<text x="28" y="168"><tspan fill="#8ED152">hago: </tspan><tspan fill="#F2F7F0">Apps web, APIs REST, herramientas de escritorio</tspan></text>
-<text x="28" y="196"><tspan fill="#8ED152">stack: </tspan><tspan fill="#F2F7F0">Angular + Node.js + MySQL · Java + Spring Boot + MySQL</tspan></text>
-<text x="28" y="224"><tspan fill="#8ED152">extra: </tspan><tspan fill="#F2F7F0">Testing funcional · Automatizacion (Selenium) · Agile</tspan></text>
-<text x="28" y="262"><tspan fill="#8ED152">$ </tspan><tspan fill="#F2F7F0">_</tspan><tspan fill="#8ED152"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>▊</tspan></text>
+<text x="28" y="82"><tspan fill="#A8D86B">$ </tspan><tspan fill="#EFF6EC">whoami --verbose</tspan></text>
+<text x="28" y="112"><tspan fill="#A8D86B">nombre: </tspan><tspan fill="#EFF6EC">Pedro Giovanni Ricra Figueroa</tspan></text>
+<text x="28" y="140"><tspan fill="#A8D86B">estudio: </tspan><tspan fill="#EFF6EC">Ingenieria de Sistemas (IX ciclo) — Univ. Nacional de Ucayali</tspan></text>
+<text x="28" y="168"><tspan fill="#A8D86B">hago: </tspan><tspan fill="#EFF6EC">Apps web, APIs REST, herramientas de escritorio</tspan></text>
+<text x="28" y="196"><tspan fill="#A8D86B">stack: </tspan><tspan fill="#EFF6EC">Angular + Node.js + MySQL · Java + Spring Boot + MySQL</tspan></text>
+<text x="28" y="224"><tspan fill="#A8D86B">extra: </tspan><tspan fill="#EFF6EC">Testing funcional · Automatizacion (Selenium) · Agile</tspan></text>
+<text x="28" y="262"><tspan fill="#A8D86B">$ </tspan><tspan fill="#EFF6EC">_</tspan><tspan fill="#A8D86B"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>▊</tspan></text>
 </g>
 </svg>
