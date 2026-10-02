@@ -66,7 +66,7 @@ Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + Spri
       <td valign="top"><code>├─ ▣ databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"><br>
-        <sub><code>MySQL (9 tablas) · SQL Server</code></sub>
+        <sub><code>MySQL · SQL Server</code></sub>
       </td>
     </tr>
     <tr>
