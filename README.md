@@ -128,10 +128,10 @@ Resolución de problemas y desarrollo de soluciones orientadas a procesos reales
 
 <a href="https://www.linkedin.com/in/pedro-giovanni-ricra-figueroa-971a20433">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
+</a>
 <a href="mailto:pedro.ricra.figueroa@gmail.com">
   <img src="https://img.shields.io/badge/Email-3E7A34?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>&nbsp;&nbsp;
+</a>
 
 <br><br>
 
