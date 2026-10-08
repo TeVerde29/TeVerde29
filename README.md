@@ -36,58 +36,58 @@ Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + Spri
 
 ---
 
-<div align="center">
+## Tecnologías
 
-## `$ cat tech-stack.yaml`
+### Lenguajes
 
-<table border="1" cellpadding="14" bgcolor="#101F16">
-  <thead>
-    <tr>
-      <th colspan="2" align="left"><code>teverde29:~$ cat tech-stack.yaml</code></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%" valign="top"><code>├─ ✦ languages:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=java,ts,js" alt="Java, TypeScript y JavaScript"><br>
-        <sub><code>Java · TypeScript · JavaScript · SQL</code></sub>
-      </td>
-      <td width="50%" valign="top"><code>├─ ◉ frontend:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=angular,html,css,figma" alt="Angular, HTML, CSS y Figma"><br>
-        <sub><code>Angular · HTML · CSS · Figma</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ ⚙ backend_apis:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,spring,postman" alt="Node.js, Spring y Postman">
-        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"><br>
-        <sub><code>Node.js · Spring Boot · Postmant · Swagger</code></sub>
-      </td>
-      <td valign="top"><code>├─ ▣ databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"><br>
-        <sub><code>MySQL · SQL Server</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ ◎ desktop_optimizacion:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=electron" alt="Electron"> <br>
-        <sub><code>Electron </code></sub>
-      </td>
-      <td valign="top"><code>╰─ ⌁ testing_tools:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=selenium,git,github,docker,vscode" alt="Selenium, Git, GitHub, Docker y VS Code"><br>
-        <sub><code>Selenium · Colab · Docker · Scrum</code></sub>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td colspan="2"><code>status: open-to-work&nbsp;&nbsp;·&nbsp;&nbsp;environment: production</code></td>
-    </tr>
-  </tfoot>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,js" alt="Java, TypeScript y JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-</div>
+Java · TypeScript · JavaScript · SQL
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,html,css,figma" alt="Angular, HTML, CSS y Figma" />
+</p>
+
+Angular · HTML · CSS · Figma
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,postman" alt="Node.js, Spring y Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+Node.js · Spring Boot · Postman · Swagger
+
+### Bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+MySQL · SQL Server
+
+### Escritorio y optimización
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron" alt="Electron" />
+</p>
+
+Electron
+
+### Testing y herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,git,github,docker,vscode" alt="Selenium, Git, GitHub, Docker y VS Code" />
+</p>
+
+Selenium · Colab · Docker · Scrum
 
 ---
 
@@ -120,7 +120,7 @@ Resolución de problemas y desarrollo de soluciones orientadas a procesos reales
 ---
 
 <!-- SOCIALS -->
-## `$ connect --socials`
+## Contacto
 
 <div align="center">
 
