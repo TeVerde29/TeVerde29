@@ -49,19 +49,19 @@ Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + Spri
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ✦ languages:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=java,ts,js" alt="Java, TypeScript y JavaScript"><br>
+        <img src="https://skillicons.dev/icons?i=java,py,ts,js" alt="Java, Python, TypeScript y JavaScript"><br>
         <sub><code>Java · TypeScript · JavaScript · SQL</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ◉ frontend:</code><br><br>
         <img src="https://skillicons.dev/icons?i=angular,html,css,figma" alt="Angular, HTML, CSS y Figma"><br>
-        <sub><code>Angular 19 · Material · HTML · CSS · Figma</code></sub>
+        <sub><code>Angular · HTML · CSS · Figma</code></sub>
       </td>
     </tr>
     <tr>
       <td valign="top"><code>├─ ⚙ backend_apis:</code><br><br>
         <img src="https://skillicons.dev/icons?i=nodejs,spring,postman" alt="Node.js, Spring y Postman">
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"><br>
-        <sub><code>Node + Express 5 · Spring Boot · REST</code></sub>
+        <sub><code>Node.js · Spring Boot · Postmant · Swagger</code></sub>
       </td>
       <td valign="top"><code>├─ ▣ databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
@@ -71,10 +71,8 @@ Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + Spri
     </tr>
     <tr>
       <td valign="top"><code>├─ ◎ desktop_optimizacion:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=electron" alt="Electron">
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet">
-        <img src="https://img.shields.io/badge/OSRM-2563EB?style=flat-square&logo=openstreetmap&logoColor=white" alt="OSRM"><br>
-        <sub><code>Electron · FIFO · VAM + MODI · B&amp;B</code></sub>
+        <img src="https://skillicons.dev/icons?i=electron" alt="Electron"> <br>
+        <sub><code>Electron </code></sub>
       </td>
       <td valign="top"><code>╰─ ⌁ testing_tools:</code><br><br>
         <img src="https://skillicons.dev/icons?i=selenium,git,github,docker,vscode" alt="Selenium, Git, GitHub, Docker y VS Code"><br>
@@ -128,12 +126,12 @@ Resolución de problemas y desarrollo de soluciones orientadas a procesos reales
 
 <a href="https://www.linkedin.com/in/pedro-giovanni-ricra-figueroa-971a20433">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
+</a>
 <a href="mailto:pedro.ricra.figueroa@gmail.com">
   <img src="https://img.shields.io/badge/Email-3E7A34?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>&nbsp;&nbsp;
+</a>
 
-<br><br>
+<br>
 
 ### ¿Quieres conocer mis proyectos?
 
