@@ -54,14 +54,14 @@ Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + Spri
       </td>
       <td width="50%" valign="top"><code>├─ ◉ frontend:</code><br><br>
         <img src="https://skillicons.dev/icons?i=angular,html,css,figma" alt="Angular, HTML, CSS y Figma"><br>
-        <sub><code>Angular 19 · Material · HTML · CSS · Figma</code></sub>
+        <sub><code>Angular · HTML · CSS · Figma</code></sub>
       </td>
     </tr>
     <tr>
       <td valign="top"><code>├─ ⚙ backend_apis:</code><br><br>
         <img src="https://skillicons.dev/icons?i=nodejs,spring,postman" alt="Node.js, Spring y Postman">
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"><br>
-        <sub><code>Node + Express 5 · Spring Boot · REST</code></sub>
+        <sub><code>Node.js · Spring Boot · Postmant · Swagger</code></sub>
       </td>
       <td valign="top"><code>├─ ▣ databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
@@ -71,14 +71,12 @@ Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + Spri
     </tr>
     <tr>
       <td valign="top"><code>├─ ◎ desktop_optimizacion:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=electron" alt="Electron">
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet">
-        <img src="https://img.shields.io/badge/OSRM-2563EB?style=flat-square&logo=openstreetmap&logoColor=white" alt="OSRM"><br>
-        <sub><code>Electron · FIFO · VAM + MODI · B&amp;B</code></sub>
+        <img src="https://skillicons.dev/icons?i=electron" alt="Electron"> <br>
+        <sub><code>Electron </code></sub>
       </td>
       <td valign="top"><code>╰─ ⌁ testing_tools:</code><br><br>
         <img src="https://skillicons.dev/icons?i=selenium,git,github,docker,vscode" alt="Selenium, Git, GitHub, Docker y VS Code"><br>
-        <sub><code>Selenium · Python/Colab · Docker · Scrum</code></sub>
+        <sub><code>Selenium· Docker · Scrum</code></sub>
       </td>
     </tr>
   </tbody>
