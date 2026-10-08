@@ -133,7 +133,7 @@ Resolución de problemas y desarrollo de soluciones orientadas a procesos reales
   <img src="https://img.shields.io/badge/Email-3E7A34?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br><br>
+<br>
 
 ### ¿Quieres conocer mis proyectos?
 
