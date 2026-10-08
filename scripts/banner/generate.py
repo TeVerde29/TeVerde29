@@ -487,14 +487,14 @@ def render_svg(
         parts.extend(
             [
                 f'<text x="506" y="{num(row_y)}" text-anchor="end" fill="{t["muted"]}" opacity=".45" '
-                'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">'
+                'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">'
                 f"{line_num}</text>",
                 f'<text x="{num(text_x)}" y="{num(row_y)}" '
-                'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">'
+                'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">'
                 f"{content}</text>",
             ]
         )
-        row_y += 27.0
+        row_y += 31.0
 
     # Vim status line at bottom of panel
     parts.extend(
