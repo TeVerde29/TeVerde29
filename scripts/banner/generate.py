@@ -174,15 +174,15 @@ def floyd_steinberg(gray: np.ndarray) -> np.ndarray:
 
 
 def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
-    """Return sampled x/y banner coordinates from a 300x340 dither grid."""
+    """Return sampled x/y banner coordinates from a 340x385 dither grid."""
     source = Image.open(SOURCE).convert("RGBA")
     # Tighter head + shoulders crop so face detail fills the VISUAL.MAP frame.
     w, h = source.size
     crop_w = int(w * 0.60)
-    crop_h = int(crop_w * (340 / 300))
+    crop_h = int(crop_w * (385 / 340))
     left = (w - crop_w) // 2
     top = int(h * 0.08)
-    crop = source.crop((left, top, left + crop_w, top + crop_h)).resize((300, 340), Image.Resampling.LANCZOS)
+    crop = source.crop((left, top, left + crop_w, top + crop_h)).resize((340, 385), Image.Resampling.LANCZOS)
     rgb = crop.convert("RGB")
     alpha = np.asarray(crop.getchannel("A"), dtype=np.float32) / 255.0
 
@@ -215,7 +215,7 @@ def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     ys, xs = np.where(active)
     if len(xs) == 0:
         return np.zeros((0, 2), dtype=np.float32)
-    points = np.column_stack((74 + xs, 154 + ys)).astype(np.float32)
+    points = np.column_stack((74 + xs, 139 + ys)).astype(np.float32)
     if len(points) > 18000:
         points = points[rng.choice(len(points), 18000, replace=False)]
     return points
@@ -362,7 +362,7 @@ def render_svg(
         'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" '
         'font-weight="700" letter-spacing="1.2">VISUAL.MAP</text>',
         f'<text x="438" y="111" text-anchor="end" fill="{t["muted"]}" '
-        'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">300×340 / 1-BIT</text>',
+        'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">340×385 / 1-BIT</text>',
         f'<path d="M49 141h12M49 141v12M439 141h-12M439 141v12M49 539h12M49 539v-12'
         f'M439 539h-12M439 539v-12" fill="none" stroke="{t["chrome"]}" opacity=".55"/>',
         '<g clip-path="url(#visualClip)" shape-rendering="crispEdges">',
