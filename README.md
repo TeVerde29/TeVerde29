@@ -49,7 +49,7 @@ Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + Spri
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ✦ languages:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=java,py,ts,js" alt="Java, Python, TypeScript y JavaScript"><br>
+        <img src="https://skillicons.dev/icons?i=java,ts,js" alt="Java, TypeScript y JavaScript"><br>
         <sub><code>Java · TypeScript · JavaScript · SQL</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ◉ frontend:</code><br><br>
