@@ -39,7 +39,6 @@ YAML_ROWS = [
     (0, "profile", ""),
     (1, "subject", "Pedro Giovanni Ricra Figueroa"),
     (1, "role", "Full-Stack Developer"),
-    (1, "origin", "Pucallpa, Peru - UNU"),
     (1, "focus", "Angular · Spring Boot · MySQL · Node.js"),
     (0, "stack", ""),
     (1, "frontend", "Angular 19 + Material"),
@@ -47,7 +46,7 @@ YAML_ROWS = [
     (0, "contact", ""),
     (1, "linkedin", "/in/pedro-giovanni-ricra-figueroa"),
     (1, "github", "TeVerde29"),
-    (1, "timezone", "Pucallpa"),
+    (1, "city", "Pucallpa"),
 ]
 
 THEMES = {
@@ -494,7 +493,7 @@ def render_svg(
                 f"{content}</text>",
             ]
         )
-        row_y += 31.0
+        row_y += 34.0
 
     # Vim status line at bottom of panel
     parts.extend(
@@ -509,7 +508,7 @@ def render_svg(
             f'<text x="740" y="547" fill="{t["muted"]}" '
             'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">[utf-8]</text>',
             f'<text x="1134" y="547" text-anchor="end" fill="{t["muted"]}" '
-            'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">12L, 340B  100%  12:1</text>',
+            'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">11L, 310B  100%  11:1</text>',
             "</svg>",
         ]
     )
