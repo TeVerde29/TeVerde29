@@ -49,8 +49,8 @@ Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + Spri
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ✦ languages:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=java,py,ts,js" alt="Java, Python, TypeScript y JavaScript"><br>
-        <sub><code>Java · Python · TypeScript · JavaScript · SQL</code></sub>
+        <img src="https://skillicons.dev/icons?i=java,ts,js" alt="Java, TypeScript y JavaScript"><br>
+        <sub><code>Java · TypeScript · JavaScript · SQL</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ◉ frontend:</code><br><br>
         <img src="https://skillicons.dev/icons?i=angular,html,css,figma" alt="Angular, HTML, CSS y Figma"><br>
@@ -78,7 +78,7 @@ Actualmente trabajo principalmente con **Angular + Node.js + MySQL y Java + Spri
       </td>
       <td valign="top"><code>╰─ ⌁ testing_tools:</code><br><br>
         <img src="https://skillicons.dev/icons?i=selenium,git,github,docker,vscode" alt="Selenium, Git, GitHub, Docker y VS Code"><br>
-        <sub><code>Selenium · Python/Colab · Docker · Scrum</code></sub>
+        <sub><code>Selenium · Colab · Docker · Scrum</code></sub>
       </td>
     </tr>
   </tbody>
