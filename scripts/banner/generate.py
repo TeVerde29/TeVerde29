@@ -38,12 +38,15 @@ PREFERRED_LOGO_ORDER = ("teverde",)
 YAML_ROWS = [
     (0, "profile", ""),
     (1, "subject", "Pedro Giovanni Ricra Figueroa"),
-    (1, "role", "Full-Stack Developer"),
-    (1, "focus", "Angular · Spring Boot · MySQL · Node.js"),
+    (1, "role", "Ing. de Sistemas · Full-Stack Developer"),
+    (1, "focus", "Angular · Spring Boot · Node.js · MySQL · REST APIs"),
     (0, "stack", ""),
-    (1, "frontend", "Angular 19 + Material"),
-    (1, "backend", "Node.js + Express + MySQL · Spring Boot + JPA + MySQL"),
+    (2, "frontend", "Angular 19 + Material"),
+    (2, "backend", "Node.js + Express · Spring Boot + JPA"),
+    (2, "database", "MySQL · SQL Server"),
+    (2, "tools", "Git · GitHub · Docker · Postman"),
     (0, "contact", ""),
+    (1, "email", "pedro.ricra.figueroa@gmail.com"),
     (1, "linkedin", "/in/pedro-giovanni-ricra-figueroa"),
     (1, "github", "TeVerde29"),
     (1, "city", "Pucallpa"),
@@ -178,10 +181,10 @@ def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     source = Image.open(SOURCE).convert("RGBA")
     # Tighter head + shoulders crop so face detail fills the VISUAL.MAP frame.
     w, h = source.size
-    crop_w = int(w * 0.60)
+    crop_w = int(w * 0.80)
     crop_h = int(crop_w * (385 / 340))
-    left = (w - crop_w) // 2
-    top = int(h * 0.08)
+    left = int(w * 0.10)
+    top = int(h * 0.048)
     crop = source.crop((left, top, left + crop_w, top + crop_h)).resize((340, 385), Image.Resampling.LANCZOS)
     rgb = crop.convert("RGB")
     alpha = np.asarray(crop.getchannel("A"), dtype=np.float32) / 255.0
@@ -481,7 +484,7 @@ def render_svg(
                 f'<tspan fill="{t["portrait"]}">{html.escape(key)}: </tspan>'
                 f'<tspan fill="{t["text"]}">{html.escape(value)}</tspan>'
             )
-            text_x = 542.0
+            text_x = 542.0 if indent == 1 else 560.0
 
         parts.extend(
             [
@@ -493,7 +496,7 @@ def render_svg(
                 f"{content}</text>",
             ]
         )
-        row_y += 34.0
+        row_y += 26.5
 
     # Vim status line at bottom of panel
     parts.extend(
@@ -508,7 +511,7 @@ def render_svg(
             f'<text x="740" y="547" fill="{t["muted"]}" '
             'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">[utf-8]</text>',
             f'<text x="1134" y="547" text-anchor="end" fill="{t["muted"]}" '
-            'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">11L, 310B  100%  11:1</text>',
+            'font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11">14L, 380B  100%  14:1</text>',
             "</svg>",
         ]
     )
