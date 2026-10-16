@@ -28,7 +28,7 @@
 
 ## Sobre mí
 
-Estudiante de **Ingeniería de Sistemas (IX ciclo)** en la **Universidad Nacional de Ucayali**, con experiencia práctica en **desarrollo de software, integración frontend–backend y automatización de pruebas**.
+Estudiante de **Ingeniería de Sistemas (X ciclo)** en la **Universidad Nacional de Ucayali**, con experiencia práctica en **desarrollo de software, integración frontend–backend y automatización de pruebas**.
 
 Me interesa construir soluciones orientadas a problemas reales, desde aplicaciones web y APIs hasta herramientas de escritorio y sistemas de optimización.
 
