@@ -115,6 +115,13 @@ Resolución de problemas y desarrollo de soluciones orientadas a procesos reales
 
 <img src="https://gitmystat.vercel.app/top?theme=moonlight&username=TeVerde29&layout=bar" alt="Top Languages" />
 
+<a href="https://auracheck.dev/TeVerde">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://auracheck.dev/card/TeVerde.svg?variant=full&theme=dark">
+    <img alt="R I C R A's open source reach" src="https://auracheck.dev/card/TeVerde.svg?variant=full&theme=light">
+  </picture>
+</a>
+
 </div>
 
 ---
